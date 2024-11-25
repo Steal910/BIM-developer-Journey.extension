@@ -7,7 +7,8 @@ This Python script simplifies the creation of shared parameters in Revit project
 ## 🛠️ Features  
 - **Create new shared parameters** in the shared parameter file.  
 - Automatically **bind parameters** to applicable categories.  
-- Verify if a parameter already exists to prevent duplicates.  
+- Verify if a parameter already exists to prevent duplicates.
+- Create new parameters
 
 ## 💻 How to Use  
 1. Open the script in a Python environment compatible with Revit (e.g., RevitPythonShell or pyRevit).  
