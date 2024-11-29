@@ -1,4 +1,4 @@
-**Material-Dependent Parameter for Autodesk Revit**
+Material-Dependent Parameter for Autodesk Revit
 🎯 Automate parameter assignment based on material properties 🎯
 
 This Python script for Autodesk Revit allows you to dynamically create shared parameters and assign values to elements based on the materials they are associated with. It's a step towards leveraging automation in BIM workflows to improve efficiency and reduce errors.
@@ -25,5 +25,3 @@ Enter the parameter name, criteria, and values.
 Click "Create and Assign Parameters" to execute the operation.
 The parameter will be created, bound, and assigned to elements in the project based on material properties.
 Feel free to test, adapt, and share your feedback to improve this tool further. Let's make BIM workflows smarter and more efficient! 🚀
-
-#BIM #Python #Revit #Automation #MaterialProperties #BIMDeveloper
