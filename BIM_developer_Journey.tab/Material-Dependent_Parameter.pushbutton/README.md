@@ -31,4 +31,4 @@ This Python script for Autodesk Revit allows you to dynamically create shared pa
 
 Feel free to test, adapt, and share your feedback to improve this tool further. Let's make BIM workflows smarter and more efficient! 🚀  
 
-# **BIM** # **Python** # **Revit** # **Automation** # **MaterialProperties** # **BIMDeveloper**
+#BIM #Python #Revit #Automation #MaterialProperties #BIMDeveloper
